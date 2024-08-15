@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kishankumarkk08/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/kishankumarkk08/Leetcode/tree/master/0048-rotate-image) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/kishankumarkk08/Leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kishankumarkk08/Leetcode/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kishankumarkk08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kishankumarkk08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
