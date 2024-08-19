@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishankumarkk08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/kishankumarkk08/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kishankumarkk08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/kishankumarkk08/Leetcode/tree/master/0886-score-of-parentheses) |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kishankumarkk08/Leetcode/tree/master/0682-baseball-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishankumarkk08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishankumarkk08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishankumarkk08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
