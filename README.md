@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/kishankumarkk08/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kishankumarkk08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,8 +157,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kishankumarkk08/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
