@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kishankumarkk08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/kishankumarkk08/Leetcode/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
