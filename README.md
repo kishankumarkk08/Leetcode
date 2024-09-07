@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kishankumarkk08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kishankumarkk08/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
