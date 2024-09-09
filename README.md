@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kishankumarkk08/Leetcode/tree/master/0682-baseball-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/kishankumarkk08/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -257,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/kishankumarkk08/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/kishankumarkk08/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kishankumarkk08/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
