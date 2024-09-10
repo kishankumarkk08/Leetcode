@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/kishankumarkk08/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/kishankumarkk08/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kishankumarkk08/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
