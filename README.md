@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kishankumarkk08/Leetcode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/kishankumarkk08/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/kishankumarkk08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kishankumarkk08/Leetcode/tree/master/0682-baseball-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kishankumarkk08/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kishankumarkk08/Leetcode/tree/master/0048-rotate-image) |
+| [0539-minimum-time-difference](https://github.com/kishankumarkk08/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kishankumarkk08/Leetcode/tree/master/0125-valid-palindrome) |
+| [0539-minimum-time-difference](https://github.com/kishankumarkk08/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0886-score-of-parentheses](https://github.com/kishankumarkk08/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kishankumarkk08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kishankumarkk08/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/kishankumarkk08/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/kishankumarkk08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/0948-sort-an-array) |
