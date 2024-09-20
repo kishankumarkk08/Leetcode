@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kishankumarkk08/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kishankumarkk08/Leetcode/tree/master/0048-rotate-image) |
+| [0279-perfect-squares](https://github.com/kishankumarkk08/Leetcode/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/kishankumarkk08/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishankumarkk08/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/kishankumarkk08/Leetcode/tree/master/0279-perfect-squares) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kishankumarkk08/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kishankumarkk08/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/kishankumarkk08/Leetcode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kishankumarkk08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
