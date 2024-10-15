@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/kishankumarkk08/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0801-is-graph-bipartite](https://github.com/kishankumarkk08/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/kishankumarkk08/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kishankumarkk08/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kishankumarkk08/Leetcode/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kishankumarkk08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/kishankumarkk08/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/kishankumarkk08/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kishankumarkk08/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kishankumarkk08/Leetcode/tree/master/0046-permutations) |
+| [0813-all-paths-from-source-to-target](https://github.com/kishankumarkk08/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -300,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/kishankumarkk08/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/kishankumarkk08/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kishankumarkk08/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
