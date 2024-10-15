@@ -305,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/kishankumarkk08/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/kishankumarkk08/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kishankumarkk08/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kishankumarkk08/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
