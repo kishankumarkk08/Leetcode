@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/kishankumarkk08/Leetcode/tree/master/1036-rotting-oranges) |
+| [1072-next-greater-node-in-linked-list](https://github.com/kishankumarkk08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/kishankumarkk08/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kishankumarkk08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/kishankumarkk08/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kishankumarkk08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/kishankumarkk08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kishankumarkk08/Leetcode/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/kishankumarkk08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## String
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/kishankumarkk08/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/kishankumarkk08/Leetcode/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kishankumarkk08/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [1072-next-greater-node-in-linked-list](https://github.com/kishankumarkk08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kishankumarkk08/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kishankumarkk08/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
