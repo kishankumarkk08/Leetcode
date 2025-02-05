@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kishankumarkk08/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kishankumarkk08/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kishankumarkk08/Leetcode/tree/master/0739-daily-temperatures) |
+| [0835-linked-list-components](https://github.com/kishankumarkk08/Leetcode/tree/master/0835-linked-list-components) |
 | [0890-lemonade-change](https://github.com/kishankumarkk08/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0835-linked-list-components](https://github.com/kishankumarkk08/Leetcode/tree/master/0835-linked-list-components) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kishankumarkk08/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kishankumarkk08/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kishankumarkk08/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/kishankumarkk08/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/kishankumarkk08/Leetcode/tree/master/0148-sort-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kishankumarkk08/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0835-linked-list-components](https://github.com/kishankumarkk08/Leetcode/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/kishankumarkk08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/kishankumarkk08/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kishankumarkk08/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
