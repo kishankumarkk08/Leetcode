@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kishankumarkk08/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kishankumarkk08/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/kishankumarkk08/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/kishankumarkk08/Leetcode/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/kishankumarkk08/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/kishankumarkk08/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kishankumarkk08/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kishankumarkk08/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kishankumarkk08/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/kishankumarkk08/Leetcode/tree/master/0279-perfect-squares) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kishankumarkk08/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kishankumarkk08/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kishankumarkk08/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
