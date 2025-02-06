@@ -1,17 +1,16 @@
 class Solution {
     public int climbStairs(int n) {
-        int dp[] = new int[n+1];
-        return climbStairsMemo(n,dp);
-    }
-
-    public int climbStairsMemo(int n, int dp[]) {
-        if(n < 3) {
+        if(n <= 3) {
             return n;
         }
-        if(dp[n] != 0) {
-            return dp[n];
+        int dp[] = new int[n+1];
+        dp[0] = 1;
+        dp[1] = 1;
+        dp[2] = 2;
+        dp[3] = 3;
+        for(int i = 4; i <= n; i++) {
+            dp[i] = dp[i-1] + dp[i-2];
         }
-        dp[n] = climbStairsMemo(n-1,dp) + climbStairsMemo(n-2,dp);
         return dp[n];
     }
 }
