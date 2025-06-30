@@ -361,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kishankumarkk08/Leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kishankumarkk08/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
